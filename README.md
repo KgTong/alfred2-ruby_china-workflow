@@ -14,11 +14,11 @@ Screenshots
 
 ### 1. Get the top topics:
 
-![mixed top processes](https://github.com/KgTong/alfred2-ruby_china-workflow/blob/master/screenshots/topics.png)
+![mixed top processes](https://raw.github.com/KgTong/alfred2-ruby_china-workflow/master/screenshots/topics.png)
 
 ### 1. Get the hot topics:
 
-![mixed top processes](https://github.com/KgTong/alfred2-ruby_china-workflow/blob/master/screenshots/hot_topics.png)
+![mixed top processes](https://raw.github.com/KgTong/alfred2-ruby_china-workflow/master/screenshots/hot_topics.png)
 
 
 
