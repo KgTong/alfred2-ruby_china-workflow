@@ -6,17 +6,20 @@ A workflow of Alfred2 fetching ruby-china's information in Ruby.
 Main features:
 
 - get the latest topics categorized by different key words
-- TODO
-- provide the access to post a topic
-- provide the access to get the latest comments
+- get the hot topics
 - …
 
 Screenshots
 ======================
 
-### 1. Get the Topics:
+### 1. Get the top topics:
 
-![mixed top processes](https://raw.github.com/KgTong/alfred2-ruby_china-workflow/master/screenshots/rc-topics.png)
+![mixed top processes](https://github.com/KgTong/alfred2-ruby_china-workflow/blob/master/screenshots/topics.png)
+
+### 1. Get the hot topics:
+
+![mixed top processes](https://github.com/KgTong/alfred2-ruby_china-workflow/blob/master/screenshots/hot_topics.png)
+
 
 
 Installation
@@ -35,4 +38,5 @@ Usage
 
 1. `rc`: Access to the site of ruby_china.
 >   - `rc t`, or `rc T` to show latest top 10 topics 
+>   - `rc h`, or `rc H` to show latest top 10 topics
 >   - remains To-do...
