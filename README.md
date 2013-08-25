@@ -20,7 +20,7 @@ Screenshots
 
 ![mixed top processes](https://raw.github.com/KgTong/alfred2-ruby_china-workflow/master/screenshots/hot_topics.png)
 
-### 1. Get the hot topics:
+### 1. Get the no reply topics:
 
 ![mixed top processes](https://raw.github.com/KgTong/alfred2-ruby_china-workflow/master/screenshots/no_reply.png)
 
