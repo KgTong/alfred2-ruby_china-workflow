@@ -72,7 +72,6 @@ when "h", "H"
     i = 0
     topics.each do |topic|
       feedback.add_item({ :title => topic[1], :subtitle =>"#{nodes[i]} | by #{authors[i]} | #{comments[i]}人喜欢", :arg => "http://ruby-china.org/#{topic[0]}", :icon => { :name => "hot.png" }})
-      #feedback.add_item({ :title => topic[1], :subtitle =>"#{nodes[i]} | by #{authors[i]} | #{comments[i]}人喜欢", :arg => "http://ruby-china.org/#{topic[0]}", :icon => { :name => "haha.png" }})
       i += 1
     end
   end
