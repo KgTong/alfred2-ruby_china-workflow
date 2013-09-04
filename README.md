@@ -8,6 +8,7 @@ Main features:
 - get the latest topics categorized by different key words
 - get the hot topics
 - get the no reply
+- Search query for community's resources by google-search
 
 Screenshots
 ======================
@@ -23,6 +24,11 @@ Screenshots
 ### 1. Get the no reply topics:
 
 ![mixed top processes](https://raw.github.com/KgTong/alfred2-ruby_china-workflow/master/screenshots/no_reply.png)
+
+### 1. Search query for community's resources by google-search:
+
+![mixed top processes](https://raw.github.com/KgTong/alfred2-ruby_china-workflow/master/screenshots/gs.png)
+
 
 
 
@@ -45,3 +51,4 @@ Usage
 >   - `rc t`, or `rc T` to show latest top 10 topics 
 >   - `rc h`, or `rc H` to show latest top 10 topics
 >   - `rc n`, or `rc N` to show latest no reply topics
+>   - `rc query` to show community's resources by google-search
